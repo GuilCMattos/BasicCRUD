@@ -1,0 +1,13 @@
+aside.logo { 
+    background-color: var(--bg-dark);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+aside a { 
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 700;
+    font-size: 1.2rem;
+}

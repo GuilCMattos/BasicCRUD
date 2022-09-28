@@ -3,6 +3,8 @@ import React from 'react'
 
 export default props => ( 
     <aside className='logo'>
-        Logo
+       <a href="/" className='logo'>
+        CRUD Básico
+       </a>
     </aside>
 )
